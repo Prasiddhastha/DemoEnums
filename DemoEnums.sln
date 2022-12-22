@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEnums", "DemoEnums\DemoEnums.csproj", "{D2791D66-F67A-47E2-86F3-5AC947BDCC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2791D66-F67A-47E2-86F3-5AC947BDCC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2791D66-F67A-47E2-86F3-5AC947BDCC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2791D66-F67A-47E2-86F3-5AC947BDCC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2791D66-F67A-47E2-86F3-5AC947BDCC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872A791C-E036-4E76-9940-5F8DEB7F8B58}
+	EndGlobalSection
+EndGlobal
