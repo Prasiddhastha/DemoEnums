@@ -22,9 +22,9 @@ namespace DemoEnums
             Console.WriteLine(method.ToString());//convert enum to string
 
             var methodName = "Express";
-            var shippingMethod = (ShippingMethod) Enum.Parse(typeof(ShippingMethod), methodName);//string to enum
-            Console.WriteLine(shippingMethod);
-            
+            var shippingMethod = (ShippingMethod) Enum.Parse(typeof(ShippingMethod), methodName);
+            Console.WriteLine(shippingMethod);//string to enum
+
         }
     }
 }
